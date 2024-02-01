@@ -1,0 +1,22 @@
+{
+  "name": "excel-export",
+  "version": "1.0.0",
+  "description": "export all of your excel files ( eg: .csv, .xlsx )",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debugbybit/excel-export.git"
+  },
+  "keywords": [
+    "excel"
+  ],
+  "author": "debugbybit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debugbybit/excel-export/issues"
+  },
+  "homepage": "https://github.com/debugbybit/excel-export#readme"
+}
